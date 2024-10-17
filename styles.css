@@ -270,3 +270,24 @@
     font-size: 20px;
     font-weight: 600;
 }
+
+/*Footer styles*/
+.footer-container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    font-family: "Azeret Mono", monospace;
+}
+
+.footer-container>p {
+    color: #0D1321;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.social-media {
+    display: flex;
+    gap: 30px;
+}
