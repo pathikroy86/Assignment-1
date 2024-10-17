@@ -200,3 +200,31 @@
     color: #0D1321;
     font-weight: bold;
 }
+
+/*My next target styles*/
+.framework {
+    display: flex;
+    border: 1px solid #0D132126;
+    border-radius: 16px;
+    padding-bottom: 25px;
+    margin-top: 30px;
+}
+
+.framework>figure {
+    margin-right: 15px;
+    margin-top: 50px;
+}
+
+.react-js>h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #0D1321;
+}
+
+.react-js>p {
+    color: #0D1321;
+}
+
+.react-js>a {
+    color: #0D1321;
+}
