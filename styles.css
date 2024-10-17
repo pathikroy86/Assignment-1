@@ -228,3 +228,45 @@
 .react-js>a {
     color: #0D1321;
 }
+
+/*Support section styles*/
+.submit-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-family: "Azeret Mono", monospace;
+    background-image: url(assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 0px;
+    border-radius: 16px;
+    margin-bottom: 100px;
+}
+
+.submit-container>h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.submit-container>p {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.form-section>input {
+    color: #0D132166;
+    border: none;
+    padding: 10px 20px;
+    width: 50%;
+    border-radius: 8px;
+}
+
+.form-section>button {
+    border: none;
+    padding: 7px 15px;
+    border-radius: 8px;
+    color: #0D1321;
+    font-size: 20px;
+    font-weight: 600;
+}
