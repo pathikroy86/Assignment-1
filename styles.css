@@ -121,3 +121,33 @@
     border-radius: 16px;
     margin-bottom: 32px;
 }
+
+/*Inspiration styles*/
+.inspiration-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-family: "Azeret Mono", monospace;
+    margin-bottom: 100px;
+}
+
+.inspiration-container>h1 {
+    color: #0D1321;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.inspiration-container>p {
+    color: #0D1321;
+    margin-bottom: 30px;
+}
+
+.video-container {
+    padding: 25px;
+    border: 1px solid #0D132133;
+    border-radius: 16px;
+}
+
+.video-container iframe {
+    border-radius: 16px;
+}
