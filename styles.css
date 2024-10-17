@@ -151,3 +151,52 @@
 .video-container iframe {
     border-radius: 16px;
 }
+
+/*Current target styles*/
+.current-target-container {
+    width: 80%;
+    margin: auto;
+    font-family: "Azeret Mono", monospace;
+    margin-bottom: 100px;
+}
+
+.current-target-container>h1 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    color: #0D1321;
+}
+
+.current-target-container>p {
+    color: #0D1321;
+    text-align: center;
+}
+
+.languages-container {
+    display: flex;
+    gap: 20px;
+}
+
+.language {
+    padding: 10px 15px 20px 25px;
+    border-radius: 16px;
+}
+
+.language>figure {
+    margin-left: 0px;
+}
+
+.language>h3 {
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.language>p {
+    color: #0D1321;
+}
+
+.language>a {
+    color: #0D1321;
+    font-weight: bold;
+}
